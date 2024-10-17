@@ -29,9 +29,6 @@ pip install opencv-python
 ```
 # About mediapipe
 
-- animal example
-
-![Test Image 3](/fuku.png)
 
 https://ai.google.dev/edge/mediapipe/solutions/guide
 
@@ -39,6 +36,13 @@ https://ai.google.dev/edge/mediapipe/solutions/guide
 - On the mesh, face 2d image set as triangles
 
 # sample 
+
+
+- animal example
+
+![Test Image 3](/fuku.png)
+
+- human face
 
 [sample.webm](https://github.com/user-attachments/assets/e0f47281-67f2-44e4-9001-17a84bcce910)
 
