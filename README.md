@@ -16,8 +16,19 @@ landmark_path = "./landmark.json"
 landmark.json for adjusting real time face matching area
 
 ```
+# explain 
 
+```
+python many_face.py
 
+```
+
+## original version
+```
+
+2d_face.py
+
+```
 
 # reuqirement
 
