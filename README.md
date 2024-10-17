@@ -29,6 +29,10 @@ pip install opencv-python
 ```
 # About mediapipe
 
+- animal example
+
+![Test Image 3](/fuku.png)
+
 https://ai.google.dev/edge/mediapipe/solutions/guide
 
 - This script is utilized face detection function
