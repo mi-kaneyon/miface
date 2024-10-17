@@ -36,4 +36,5 @@ https://ai.google.dev/edge/mediapipe/solutions/guide
 
 # sample 
 
-![Test Image 3]([sample.webm](https://github.com/mi-kaneyon/miface/blob/main/sample.webm))
+[sample.webm](https://github.com/user-attachments/assets/e0f47281-67f2-44e4-9001-17a84bcce910)
+
