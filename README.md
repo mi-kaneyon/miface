@@ -29,6 +29,15 @@ python many_face.py
 2d_face.py
 
 ```
+## appendix tool facesharpner
+
+```
+python facesharpner.py
+
+```
+- keep face resolution and expand / adjust sharpness script
+
+
 
 # reuqirement
 
